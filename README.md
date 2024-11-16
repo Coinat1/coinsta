@@ -1,5 +1,5 @@
 <h1 align="center">
-<img src="https://raw.githubusercontent.com/coinsta1/coinsta/master/share/pixmaps/coinsta256.svg" alt="Coinsta" width="256"/>
+<img src="https://raw.githubusercontent.com/coinat1/coinsta/master/share/pixmaps/coinsta256.svg" alt="Coinsta" width="256"/>
 <br/><br/>
 Coinsta Core [CNTA, €]  
 </h1>
@@ -41,9 +41,9 @@ software.
 
 Main development resources:
 
-* [GitHub Projects](https://github.com/coinsta1/coinsta/projects) is used to
+* [GitHub Projects](https://github.com/coinat1/coinsta/projects) is used to
   follow planned and in-progress work for upcoming releases.
-* [GitHub Discussions](https://github.com/coinsta1/coinsta/discussions) is used
+* [GitHub Discussions](https://github.com/coinat1/coinsta/discussions) is used
   to discuss features, planned and unplanned, related to both the development of
   the Coinsta Core software, the underlying protocols and the CNTA asset.
 
@@ -69,18 +69,18 @@ There are 4 types of branches in this repository:
 ## Contributing 🤝
 
 If you find a bug or experience issues with this software, please report it
-using the [issue system](https://github.com/coinsta1/coinsta/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+).
+using the [issue system](https://github.com/coinat1/coinsta/issues/new?assignees=&labels=bug&template=bug_report.md&title=%5Bbug%5D+).
 
 Please see [the contribution guide](CONTRIBUTING.md) to see how you can
 participate in the development of Dogecoin Core. There are often
-[topics seeking help](https://github.com/coinsta1/coinsta/labels/help%20wanted)
+[topics seeking help](https://github.com/coinat1/coinsta/labels/help%20wanted)
 where your contributions will have high impact and get very appreciation. wow.
 
 ## Very Much Frequently Asked Questions ❓
 
 Do you have a question regarding Dogecoin? An answer is perhaps already in the
 [FAQ](doc/FAQ.md) or the
-[Q&A section](https://github.com/coinsta1/coinsta/discussions/categories/q-a)
+[Q&A section](https://github.com/coinat1/coinsta/discussions/categories/q-a)
 of the discussion board!
 
 ## License - Much license ⚖️
