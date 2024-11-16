@@ -7,11 +7,11 @@
 
 #include "policy/policy.h"
 #include "arith_uint256.h"
-#include "dogecoin.h"
+#include "coinsta.h"
 #include "txmempool.h"
 #include "util.h"
 #include "validation.h"
-#include "dogecoin-fees.h"
+#include "coinsta-fees.h"
 
 int static generateMTRandom(unsigned int s, int range)
 {
@@ -143,7 +143,7 @@ CAmount GetDogecoinBlockSubsidy(int nHeight, const Consensus::Params& consensusP
         return (500000 * COIN) >> halvings;
     } else {
         // Constant inflation
-        return 10000 * COIN;
+        return 100000 * COIN;
     }
 }
 
